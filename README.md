@@ -1,2 +1,2 @@
-# travel-blog-project
-A HTML website documenting places traveled
+# travels
+배낭여행 기록
